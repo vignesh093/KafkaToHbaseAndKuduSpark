@@ -1,4 +1,4 @@
-package com.hcl.hbaseload
+package com.spark.hbaseload
 
 import java.text.SimpleDateFormat
 
